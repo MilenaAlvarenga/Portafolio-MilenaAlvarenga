@@ -117,3 +117,29 @@ header {
     text-transform: uppercase;
 
 }
+
+/* ------------------------- */
+/* PERFIL*/
+/* ------------------------- */
+
+.descripcion{
+    width: 80%;
+	max-width: 1000px;
+	margin: auto;
+    background-color: #E3517D;
+    text-align: center;
+}
+.descripcion h2{
+    text-transform: uppercase;
+    font-size: 30px;
+}
+.fotoperfil img{
+    height: auto;
+    width: 300px;
+}
+
+
+/* ------------------------- */
+/* CONTACTO*/
+/* ------------------------- */
+
